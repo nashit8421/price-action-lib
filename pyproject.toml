@@ -9,7 +9,7 @@ description = "A comprehensive price action analysis library for Indian stock ma
 readme = "README.md"
 license = {file = "LICENSE"}
 authors = [
-    {name = "Your Name", email = "your.email@example.com"}  # Replace with your details
+    {name = "Nashit", email = "nashit8421@gmail.com"}
 ]
 keywords = ["price action", "trading", "stock market", "candlestick patterns", "technical analysis", "indian stocks", "NSE", "BSE"]
 classifiers = [
@@ -44,10 +44,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/price-action-lib"  # Replace with your repo
-Documentation = "https://github.com/yourusername/price-action-lib#readme"
-Repository = "https://github.com/yourusername/price-action-lib.git"
-Issues = "https://github.com/yourusername/price-action-lib/issues"
+Homepage = "https://github.com/nashit8421/price-action-lib"
+Documentation = "https://github.com/nashit8421/price-action-lib#readme"
+Repository = "https://github.com/nashit8421/price-action-lib.git"
+Issues = "https://github.com/nashit8421/price-action-lib/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]

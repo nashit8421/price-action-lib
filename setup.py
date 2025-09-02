@@ -6,12 +6,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="price-action-lib",
     version="1.0.0",
-    author="Your Name",  # Replace with your actual name
-    author_email="your.email@example.com",  # Replace with your email
+    author="Nashit",
+    author_email="nashit8421@gmail.com",
     description="A comprehensive price action analysis library for Indian stock market",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/price-action-lib",  # Replace with your GitHub repo
+    url="https://github.com/nashit8421/price-action-lib",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 5 - Production/Stable",
@@ -45,8 +45,8 @@ setup(
         ],
     },
     project_urls={
-        "Documentation": "https://github.com/yourusername/price-action-lib#readme",
-        "Bug Reports": "https://github.com/yourusername/price-action-lib/issues",
-        "Source": "https://github.com/yourusername/price-action-lib",
+        "Documentation": "https://github.com/nashit8421/price-action-lib#readme",
+        "Bug Reports": "https://github.com/nashit8421/price-action-lib/issues",
+        "Source": "https://github.com/nashit8421/price-action-lib",
     },
 )
