@@ -1,0 +1,17 @@
+# Include documentation files
+include README.md
+include DOCUMENTATION.md
+include LICENSE
+include requirements.txt
+
+# Include package data
+recursive-include price_action_lib *.py
+
+# Exclude unnecessary files
+global-exclude *.pyc
+global-exclude __pycache__
+global-exclude .DS_Store
+global-exclude *.so
+global-exclude .git*
+exclude *.cfg
+exclude tox.ini
