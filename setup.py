@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="price-action-lib",
-    version="1.0.0",
+    version="1.0.1",
     author="Nashit",
     author_email="nashit8421@gmail.com",
     description="A comprehensive price action analysis library for Indian stock market",

@@ -14,7 +14,7 @@ from .analysis.session_analysis import SessionAnalysis
 from .analysis.multi_timeframe import MultiTimeframeAnalysis
 from .main import PriceActionAnalyzer
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 __all__ = [
     "PriceActionAnalyzer",
     "TimeFrameManager",
